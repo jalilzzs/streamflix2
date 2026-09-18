@@ -1,0 +1,8 @@
+{
+  "name": "streamflix-api",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "torrent-search-api": "^2.1.4"
+  }
+}
